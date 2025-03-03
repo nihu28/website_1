@@ -1,4 +1,4 @@
-🍽️ Eat N Chill – Restaurant Website
+# 🍽️ Eat N Chill – Restaurant Website
 
 📌 Project Overview
 Eat N Chill is a fully responsive restaurant website designed to showcase the ambiance, menu, and services of a dining establishment. Built using HTML, CSS, and JavaScript, the website provides an engaging user experience with a visually appealing layout, smooth navigation, and interactive elements.
